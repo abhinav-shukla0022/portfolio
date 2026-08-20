@@ -1,16 +1,37 @@
-# React + Vite
+# Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A responsive personal portfolio website showcasing my skills, projects, and experience as a Computer Engineering student.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Responsive and modern design
+- About me section
+- Technical skills
+- Featured projects
+- Contact section
+- Smooth navigation
+- Mobile-friendly interface
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Frontend:** React.js, Vite, JavaScript  
+**Styling:** Tailwind CSS  
+**Deployment:** Vercel
 
-## Expanding the Oxlint configuration
+## Featured Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### InterviewAI
+AI-powered mock interview platform with AI-generated questions, answer evaluation, feedback, and interview history.
+
+### Project 2
+Brief description of your second best project.
+
+## Live Demo
+
+https://portfolio-w6r1.vercel.app/
+
+
+## Author
+
+**Abhinav Shukla**  
+B.Tech Computer Engineering
